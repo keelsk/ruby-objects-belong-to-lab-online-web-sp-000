@@ -1,7 +1,7 @@
 class Author
-  attr_reader :Author
+  attr_reader :name
   
-  def author=(author)
-    @author = author
+  def name=(name)
+    @name = name
   end
 end
