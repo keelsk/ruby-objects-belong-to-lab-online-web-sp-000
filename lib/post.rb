@@ -6,3 +6,11 @@ class Post
   end
   
 end
+
+erin = Post.new 
+erin.author = "Erin"
+erin.title = "Hey"
+
+erin.title.author
+
+
